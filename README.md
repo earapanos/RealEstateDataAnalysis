@@ -1,6 +1,6 @@
 <h1 align="center"> 🏙 Florianópolis Downtown Real State Data Analysis </h1>
 
-Hello! I'm Eduardo Adriani Rapanos and today I will try to propose many insights about the Florianópolis Downtown Real State Data. 
+Hello! I'm Eduardo Adriani Rapanos and today I will propose many insights about the Florianópolis Downtown Real State Data. 
 
 The data was provided by the LOCATES technologic company, that I work nowadays, with the purpose of I apply the knowledge of the Data Science Course, that I've been doing.
 
