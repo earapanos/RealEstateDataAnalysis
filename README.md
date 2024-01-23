@@ -17,6 +17,7 @@ The Real State Data used were providen by <a href="https://locates.com.br/"> LOC
 For use the Real State Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. 
 
 All those processes could be viewed at:
-1.<a href="https://github.com/earapanos/RealStateDataAnalysis"> Here in the Github</a>;
-2.<a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> Here in the Kaggle. </a>
-3.<a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/tabela/df_venda_clean.xlsx"> Here you can access the data used to create this model. </a>
+
+1. <a href="https://github.com/earapanos/RealStateDataAnalysis"> Here in the Github</a>;
+2. <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> Here in the Kaggle. </a>
+3. <a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/tabela/df_venda_clean.xlsx"> Here you can access the data used to create this model. </a>
