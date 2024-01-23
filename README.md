@@ -7,23 +7,10 @@ Florianópolis is the capital and second largest city of the state of Santa Cata
 
 The Florianópolis natural characteristics, your great Development Index Score and strong and dynamic economy make the city a very coveted destination to living.  
 
-<img src='![anonovoo](https://github.com/earapanos/RealStateDataAnalysis/issues/1#issue-2095800670)' width='25'>
-
-
-The data was provided by the LOCATES technologic company, that I work nowadays, with the purpose of I apply the knowledge of the Data Science Course, that I've been doing.
-
-For maintain the value of the products of the LOCATES co., I selected old adverts from the first semester of 2022.
-
-We will explore the Real State Data from the Downtown neighborhood of Florianópolis City, Brazil. The data were collected from internet adverts that is, they are real ads. We are interested in the propoerties which are saling, to indentify the **spatial distribution of the apartament meter square of these properties on the neighbohood** and compare secondarily it if a role data, including data without coordinates.
-
 ![image](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d)
 
-This processes were developed in this project:
+The Real State Data used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.
 
-1. Download the data from LOCATES co. database;
-2. Importing the data set to Kaggle;
-3. Data structure and content analysis;
-4. Data cleaning;
-5. Data visualization: analysis between de data with values to lat/lon columns and data with NaN values to these columns;
-6. Data visualization: a Square Meter Apartament Value Map from Downtown of Florianópolis, Santa Catarina, Brazil;
-7. Final Considerations.
+For use the Real State Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. All those processes could be followed <a href="https://github.com/earapanos/RealStateDataAnalysis"> here in the Linkedin</a> or <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> here in the Kaggle.</a>
+
+The master objective of this Business intelligence is provide information about the location of the announcements, the range of selling properties values and complementary information like rooms and other amenities.
