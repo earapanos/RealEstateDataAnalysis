@@ -12,7 +12,11 @@ The Florianópolis natural characteristics, your great Development Index Score a
 <h4 align="center"><a href="https://earapanos.github.io/RealStateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
 <a href="https://earapanos.github.io/RealStateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
 
-The **Real State Data** used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
+The Real State Data used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
 
-For use the **Real State Data** were previously developed some steps of exporting, analysis, cleaning and transformation of the data. All those processes could be followed <a href="https://github.com/earapanos/RealStateDataAnalysis"> **here in the Linkedin**</a> or <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> **here in the Kaggle.** </a>
+For use the Real State Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. 
 
+All those processes could be viewed at:
+1.<a href="https://github.com/earapanos/RealStateDataAnalysis"> Here in the Github</a>;
+2.<a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> Here in the Kaggle. </a>
+3.<a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/tabela/df_venda_clean.xlsx"> Here you can access the data used to create this model. </a>
