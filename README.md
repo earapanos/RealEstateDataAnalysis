@@ -3,7 +3,12 @@
 
 <h1 align="center"> 🏙 Florianópolis Downtown Real State Data Analysis </h1>
 
-Hello! I'm Eduardo Adriani Rapanos and today I will propose many insights about the Florianópolis Downtown Real State Data. 
+Florianópolis is the capital and second largest city of the state of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland. It has a population of 508,826, according to the 2020 population estimate, the second-most populous city in the state. The city is known for having the country's third highest Human Development Index score among all Brazilian cities. The economy of Florianópolis is heavily based on information technology, tourism, and services. The city has 60 beaches and is a center of surfing activity.
+
+The Florianópolis natural characteristics, your great Development Index Score and strong and dynamic economy make the city a very coveted destination to living.  
+
+![anonovoo](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/a6300f19-965f-4f5b-b5b9-02a4422401f0)
+
 
 The data was provided by the LOCATES technologic company, that I work nowadays, with the purpose of I apply the knowledge of the Data Science Course, that I've been doing.
 
