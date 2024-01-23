@@ -16,10 +16,3 @@ The **Real State Data** used were providen by <a href="https://locates.com.br/">
 
 For use the **Real State Data** were previously developed some steps of exporting, analysis, cleaning and transformation of the data. All those processes could be followed <a href="https://github.com/earapanos/RealStateDataAnalysis"> **here in the Linkedin**</a> or <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> **here in the Kaggle.** </a>
 
-At the final of this data acquisition,cleanig,transforming and visualizing and many skills was acquired.
-
-One of the most important was the habit to was documenting the process through the codes and text. This turned the work easier because this project was developed more than a single day.
-
-Other important factor is relationed with the full knowledge about the data and its problemns. This is an important and crucial thing to observe and develope and improve the analytic skills in the next work.
-
-At the end, I can get the main objective to spacialize the Square Meter of the Apartaments at the Downtown in Florianópolis.
