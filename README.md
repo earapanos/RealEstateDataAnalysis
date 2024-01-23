@@ -7,9 +7,7 @@ Florianópolis is the capital and second largest city of the state of Santa Cata
 
 The Florianópolis natural characteristics, your great Development Index Score and strong and dynamic economy make the city a very coveted destination to living.  
 
-
-<img src=""https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/a6300f19-965f-4f5b-b5b9-02a4422401f0" width="200" height="400" />
-
+<img src='![anonovoo](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/94d655d7-e25c-4b5b-889e-92f0bbb5e631)' width='25'>
 
 
 The data was provided by the LOCATES technologic company, that I work nowadays, with the purpose of I apply the knowledge of the Data Science Course, that I've been doing.
