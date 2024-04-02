@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 🏙 Florianópolis Downtown Real estate Data Analysis </h1>
+<h1 align="center"> 🏙 Florianópolis Downtown Real Estate Data Analysis </h1>
 
 ![Design sem nome](https://github.com/earapanos/RealstateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
 
